@@ -1,8 +1,8 @@
 # AgentSystems
 
-**The open runtime for AI agents, designed with a zero-trust approach.**
+**Self-hosted platform for discovering and running AI agents.**
 
-Run third-party AI agents on infrastructure you control. AgentSystems combines a federated agent ecosystem, provider portability, and container isolation to create portable AI agents that run in your environment.
+Deploy specialized agents on your infrastructure—without building from scratch or using SaaS. AgentSystems combines a federated agent ecosystem, provider portability, and container isolation to create portable AI agents that run in your environment.
 
 ---
 
